@@ -1,2 +1,4 @@
 - Use `getElementById` instead of `getElementsByName` when you want to retrieve a specific element
+    - Fixed
 - Why are you returning `false` from the `check` function?
+    - I was trying to prevent the form refreshing the page but fixed it another way
