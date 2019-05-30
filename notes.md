@@ -1,0 +1,2 @@
+- Use `getElementById` instead of `getElementsByName` when you want to retrieve a specific element
+- Why are you returning `false` from the `check` function?
