@@ -1,0 +1,23 @@
+body {
+    font-family: Arial;
+}
+
+span, p {
+    font-size: 20px;
+}
+
+input[type=text], input[type=password] {
+    border: 1px solid black;
+    background: #ddd;
+}
+
+button, input[type=submit] {
+    font-size: 20px;
+    border: none;
+    background: #ccc;
+    border-radius: 5px;
+}
+
+button:hover, input[type=submit]:hover {
+    mouse: pointer;
+}
