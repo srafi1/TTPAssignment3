@@ -1,3 +1,4 @@
+// Task 1
 function left() {
     document.getElementById("msg").innerHTML = "I'm right!";
 }
